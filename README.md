@@ -92,4 +92,30 @@
 ### 목록태그
 > 순서없는 목록ul(unordered list)
 > 순서있는목록 ol (ordered list)
-> 
+> 목록 항목 li(List Item)
+
+```
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+</ol>
+```
+
+> 설명목록 (description List)-<dl>
+
+```
+<dl>
+  <dt>HTML</dt> (dt : Description Title)
+  <dd>표준 마크업 언어</dd> (dd : Description Data)
+</dl>
+```
+  
+> 하이퍼링크 a(anchor)
+>
+> attribute(속성) : href(Hypertext Reference) : 연결되는 웹 문서의 URL
+  
