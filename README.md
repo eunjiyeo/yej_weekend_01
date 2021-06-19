@@ -53,8 +53,6 @@
 > heading -> h
 > h1 ~ h6 "h1이 가장 큰 제목"
 
-### 
-
 ```
 <!DOCTYPE html> -1
 <html> - 2 
@@ -189,5 +187,11 @@
   ### Youtube
   
 > 비디오 콘텐츠 제공시 서버의 트래픽 과부하를 해결할 수 있는 방법 중 하나
-> 
-
+> 매개변수
+> controls=1, 0
+>
+> autoplay=1, 0(mute와 같이 사용)
+>
+> mute=1, 0
+>
+> loop=1, 0 (playlist와 같이 사용)
