@@ -163,4 +163,18 @@
 > 열 제목 : thead(table head), th(table heading)
 > 표 내용 : tbody(table body), td(table data)
 > 행 : tr(table row)
+  
+### Image element
+> Tag : img
+> Attribute : src(image 위치, 파일명), alt(대체텍스트)
+` : backtick
+'''
+<img src = "image.jpg" alt = "대체텍스트">
+'''
+
+>
+>
+>
+>
+>
 
