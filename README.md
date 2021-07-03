@@ -264,7 +264,7 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 
 > External CSS : 파일 분리
 >
-> INTERNAL CSS : 같은 HTML 문서 내에 <head> 태그 영역에 <style> 태그를 사용하여 입력
+> INTERNAL CSS : 같은 HTML 문서 내에 head 태그 영역에 style 태그를 사용하여 입력
 >
 > INLINE CSS : 시작태그에 style attribute를 사용해서 입력 => javascript에서 css를 제어할 때 사용
   
