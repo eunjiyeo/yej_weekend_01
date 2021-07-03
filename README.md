@@ -163,12 +163,14 @@
 > 행 : tr(table row)
   
 ### Image element
+  
 > Tag : img
 > Attribute : src(image 위치, 파일명), alt(대체텍스트)
 ` : backtick
 '''
 <img src = "image.jpg" alt = "대체텍스트">
-'''
+
+>
 ### Video Element
 > 비디오 및 오디오 콘텐츠는 용량이 크기 때문에 서버에 저장을 해서 콘텐츠를 제공하면 많은 트래픽이 발생할 수 있음.
 >
