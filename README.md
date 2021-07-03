@@ -277,6 +277,7 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 > - 단어의 시작부분에 첫글자를 대문자로 변경, 특수기호를 사용
 >
 > 표기방식 종류
+>
 > snake case : gnb_depth1 => 파일/폴더 이름
 >
 > kebab case : gnb-depth1 => id/class
