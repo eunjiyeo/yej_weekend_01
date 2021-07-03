@@ -230,6 +230,7 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
   
 ###Parent Element(부모요소), Child Element(지식요소)
 > 포함 관계에서 포함하는 요소가 부모요소, 포함되는 요소 
-
+> 직계 포함 관계에서만 부모요소, 자식요소
+> 직계가 아닌 포함관계에서는 조상(Ancestor)요소, 자손요소(decendant)
   
  
