@@ -227,3 +227,9 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 > inline element는 같은 줄에 나란히 표시 - inline element 영역의 가로 너비가 콘텐츠 크기만큼만 정해짐
 > 
 > inline element는 위,아래 여백을 적용할 수 없음
+  
+###Parent Element(부모요소), Child Element(지식요소)
+> 포함 관계에서 포함하는 요소가 부모요소, 포함되는 요소 
+
+  
+ 
