@@ -248,7 +248,14 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 ### id, class
 
 > HTML element에 특정 이름을 사용할 때 id, class attribute를 사용해서 이름을 붙여줄 수 있음.
+>
 > id는 동일한 이름이 사용된 HTML element가 여러개이면 논리적 오류가 발생
+>
 > Id는 HTML 문서 내에서 고유해야함
+>
 > class는 동일한 이름이 여러 개의 element에 사용되어서 공통 디자인 요소나 공통 기능을 적용할 수 있음.
+>
+> id는 주로 서버에서 불러오는 데이터를 표시하는 위치에 고유하게 사용 => 백엔드 개발에서 주로 사용
+>
+> class는 주로 css 스타일 적용, javascript 인터랙션 적용할 때 사용 => 프론트엔드 개발에서 주로 사용
  
