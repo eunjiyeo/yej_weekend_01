@@ -271,13 +271,13 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 ### naming 할 때 표기방식
 
 
-> id/class naming, 변수/함수 naming, 파일/폴더 naming의 경우 가독성을 높이기 위해 사용
+> id/class naming, 클래스/변수/함수 naming, 파일/폴더 naming의 경우 가독성을 높이기 위해 사용
 >
 > - 표기방식을 사용하는 이유: naming할 때 두단어 이상으로 구성되는 경우 단어와 단어 사이를 구분하기 위해 사용
 > - 단어의 시작부분에 첫글자를 대문자로 변경, 특수기호를 사용
 >
 > 표기방식 종류
-> snake case : gnb_depth1
-> kebab case : gnb-depth1
-> camel case : gnbDepth1
-> Pascal case : GnbDepth1
+> snake case : gnb_depth1 => 파일/폴더 이름
+> kebab case : gnb-depth1 => id/class
+> camel case : gnbDepth1 => javascript의 변수/함수
+> Pascal case : GnbDepth1 => javascript의 클래스
