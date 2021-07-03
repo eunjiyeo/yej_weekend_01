@@ -278,6 +278,9 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 >
 > 표기방식 종류
 > snake case : gnb_depth1 => 파일/폴더 이름
+>
 > kebab case : gnb-depth1 => id/class
+>
 > camel case : gnbDepth1 => javascript의 변수/함수
+>
 > Pascal case : GnbDepth1 => javascript의 클래스
