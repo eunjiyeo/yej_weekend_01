@@ -204,7 +204,7 @@
 
 
 
-###웹사이트 탬플릿 디자인
+### 웹사이트 탬플릿 디자인
 https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 
 ### Container Element(단순 영역 구분 요소)
@@ -215,6 +215,13 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 ### Block, Inline
 
 > 모든 element는 각각의 고유 영역을 가지고 있음
+> 
 > block element, Inline Element 구분은 이들 영역의 화면 표시 방식에 따른 구분
 >
-> block elemnt는 줄바꿈이 되어 표시 - blockelemnt
+> block element는 줄바꿈 되어 표시 - block element 영역의 가로 너비가 부모요소에 100% 채워짐 (** 포함하는 요소 : 부모요소, 포함되는 요소 : 자식요소)
+> 
+> block element에는 위,아래 여백을 적용할 수 있음
+> 
+> inline element는 같은 줄에 나란히 표시 - inline element 영역의 가로 너비가 콘텐츠 크기만큼만 정해짐
+> 
+> inline element는 위,아래 여백을 적용할 수 없음
