@@ -245,5 +245,10 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 
 > 여러 CSS 선언은 세미콜론으로 구분하고 선언 블록은 중괄호로 묶습니다.
 
-  
+### id, class
+
+> HTML element에 특정 이름을 사용할 때 id, class attribute를 사용해서 이름을 붙여줄 수 있음.
+> id는 동일한 이름이 사용된 HTML element가 여러개이면 논리적 오류가 발생
+> Id는 HTML 문서 내에서 고유해야함
+> class는 동일한 이름이 여러 개의 element에 사용되어서 공통 디자인 요소나 공통 기능을 적용할 수 있음.
  
