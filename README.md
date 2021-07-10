@@ -207,7 +207,8 @@
 
 
 ### 웹사이트 탬플릿 디자인
-https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
+> https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
+> 
 
 ### Container Element(단순 영역 구분 요소)
 
@@ -285,3 +286,9 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 > camel case : gnbDepth1 => javascript의 변수/함수
 >
 > Pascal case : GnbDepth1 => javascript의 클래스
+  
+### OOCSS(Object Oriented CSS)
+
+> HTML ELEMENT를 대상화시키는 과정에서 ELEMENT 하나하나를 모두 객체화 시키는 이론
+> HTML ELEMENT 모두 각각 ID, CLASS ATTRIBUTE를 사용해서 이름을 지정해줌.
+> 
