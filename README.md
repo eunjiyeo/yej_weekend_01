@@ -291,4 +291,13 @@
 
 > HTML ELEMENT를 대상화시키는 과정에서 ELEMENT 하나하나를 모두 객체화 시키는 이론
 > HTML ELEMENT 모두 각각 ID, CLASS ATTRIBUTE를 사용해서 이름을 지정해줌.
-> 
+
+### web color
+> color mode
+>
+> - 가산혼합(빛의 혼합) : RGB컬러모드
+
+
+> 표현할 수 있는 색의 개수
+
+
